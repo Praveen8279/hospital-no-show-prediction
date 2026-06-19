@@ -31,6 +31,26 @@ The dashboard allows healthcare staff to enter patient and appointment details a
 - Predicted outcome
 - Feature summary
 
+---
+
+## Generated EDA Charts
+
+### Target Distribution
+
+![Target Distribution](assets/target_distribution.png)
+
+### Waiting Time Distribution
+
+![Days Wait Distribution](assets/days_wait_distribution.png)
+
+### No-Show by Weekday
+
+![Weekday No Show](assets/weekday_no_show.png)
+
+### Age vs No-Show
+
+![Age vs No Show](assets/age_vs_no_show.png)
+
 The solution includes:
 
 - Data ingestion and preprocessing
