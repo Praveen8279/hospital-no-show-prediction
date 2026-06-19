@@ -18,6 +18,19 @@ Hospital appointment no-shows are a major challenge in healthcare systems worldw
 
 This project develops an **end-to-end Machine Learning pipeline** that predicts whether a patient is likely to miss a scheduled appointment before the appointment date.
 
+# 📸 Project Screenshots
+
+## Streamlit Prediction Dashboard
+
+![Application Demo](assets/app_demo.png)
+
+The dashboard allows healthcare staff to enter patient and appointment details and instantly receive:
+
+- No-show probability
+- Risk category (Low / Medium / High)
+- Predicted outcome
+- Feature summary
+
 The solution includes:
 
 - Data ingestion and preprocessing
