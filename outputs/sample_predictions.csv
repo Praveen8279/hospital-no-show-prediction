@@ -1,0 +1,6 @@
+Gender,Age,age_group,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received,days_wait,appointment_weekday,scheduled_weekday,Neighbourhood,prior_appointments,prior_no_shows,prior_show_rate,chronic_count,is_weekend_booking,appointment_month,scheduled_hour,is_same_day,predicted_no_show,predicted_probability
+M,52,middle_age,0,0,0,1,0,0,0,Wednesday,Wednesday,INHANGUETÁ,34,0.0,35.0,1,0,5,8,1,0,0.0065
+F,31,young_adult,0,0,0,0,0,1,6,Tuesday,Wednesday,SANTO ANDRÉ,0,0.0,1.0,0,0,5,8,0,1,0.5609
+M,40,adult,0,0,0,0,0,1,13,Tuesday,Wednesday,RESISTÊNCIA,2,0.0,3.0,0,0,6,8,0,0,0.4834
+F,51,middle_age,1,1,0,0,0,1,6,Tuesday,Wednesday,REDENÇÃO,0,0.0,1.0,1,0,5,8,0,0,0.4817
+M,29,young_adult,0,0,0,0,0,1,5,Monday,Wednesday,JARDIM CAMBURI,0,0.0,1.0,0,0,5,8,0,1,0.544

@@ -1,0 +1,28 @@
+{
+    "best_model": "logistic_regression",
+    "feature_columns": [
+        "Gender",
+        "Age",
+        "age_group",
+        "Scholarship",
+        "Hipertension",
+        "Diabetes",
+        "Alcoholism",
+        "Handcap",
+        "SMS_received",
+        "days_wait",
+        "appointment_weekday",
+        "scheduled_weekday",
+        "Neighbourhood",
+        "prior_appointments",
+        "prior_no_shows",
+        "prior_show_rate",
+        "chronic_count",
+        "is_weekend_booking",
+        "appointment_month",
+        "scheduled_hour",
+        "is_same_day"
+    ],
+    "train_rows": 88416,
+    "test_rows": 22105
+}
