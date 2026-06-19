@@ -6,6 +6,20 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
+
+# 🌐 Live Demo
+
+Try the deployed application:
+
+https://hospital-no-show-prediction-twlopy6eefkcagu65u93bv.streamlit.app/
+
+Predict hospital appointment no-show risk using real-time patient and appointment information.
+
+## 🔗 Quick Links
+
+- Live Demo: https://hospital-no-show-prediction-twlopy6eefkcagu65u93bv.streamlit.app/
+- Dataset: https://www.kaggle.com/datasets/joniarroba/noshowappointments
+
 ## 📌 Project Overview
 
 Hospital appointment no-shows are a major challenge in healthcare systems worldwide. Missed appointments result in:
