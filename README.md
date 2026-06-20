@@ -291,16 +291,21 @@ The following metrics are used:
 - F1 Score
 - ROC-AUC
 
-### Current Results
+# 📈 Model Performance
 
-| Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
-|---------|---------|----------|---------|---------|---------|
-| Logistic Regression | 0.6580 | 0.3186 | 0.6095 | 0.4184 | 0.6885 |
-| Random Forest | 0.5826 | 0.3058 | 0.8405 | 0.4485 | 0.7433 |
+| Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
+|---------|---------|---------|---------|---------|---------|
+| Logistic Regression | 65.80% | 31.86% | 60.95% | 41.84% | 68.85% |
+| Random Forest | 58.26% | 30.58% | 84.05% | 44.85% | 74.33% |
 
-### Best Model
+🏆 **Best Performing Model: Random Forest**
 
-🏆 Random Forest
+### Key Findings
+
+- Approximately 20% of appointments result in a no-show.
+- Random Forest achieved the highest F1 Score and ROC-AUC.
+- Recall was prioritized because identifying potential no-shows is more important than maximizing accuracy.
+- Temporal validation was used to better simulate real-world deployment scenarios.
 
 ---
 
